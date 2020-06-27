@@ -3,8 +3,8 @@
 ## Project Overview
 Incorporate the following: 
 
-	1. Number of Retiring Employees by Title. Create three new tables, one showing number of titles retiring, one showing number of employees with each title, and one showing a list of current employees born between Jan. 1, 1952 and Dec. 31, 1955.
-	2. Mentorship Eligibility. A table containing employees who are eligible for the mentorship program.
+  1. Number of Retiring Employees by Title. Create three new tables, one showing number of titles retiring, one showing number of employees with each title, and one showing a list of current employees born between Jan. 1, 1952 and Dec. 31, 1955.
+  2. Mentorship Eligibility. A table containing employees who are eligible for the mentorship program.
  
 ## Resources
 Data Source: Employee, Department, Salary, Title Excel flat files
